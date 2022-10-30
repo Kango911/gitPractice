@@ -6,6 +6,10 @@
 /modules.xml
 /.idea.gitPractice.iml
 /contentModel.xml
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.gitPractice.iml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
