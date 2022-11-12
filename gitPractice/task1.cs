@@ -9,9 +9,8 @@ public class task1
             if (i % 3 == 0)
             {
                 Console.WriteLine(i);
-
+                Console.WriteLine("Shhhh.....");
             }
-            
         }
     }
 }
