@@ -10,7 +10,7 @@ public class task1
             {
                 Console.WriteLine(i);
                 Console.WriteLine("Shhhh.....");
-                Console.WriteLine("Саша жопа");
+                Console.WriteLine("Даша жопа");
             }
         }
     }
