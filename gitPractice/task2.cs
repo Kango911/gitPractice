@@ -19,7 +19,5 @@ public class task2
                 Console.WriteLine(i);
             }
         }
-        
-        
     }
 }
